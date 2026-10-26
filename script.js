@@ -29,7 +29,7 @@
 // file for details.
 // =====================================================================
 
-const WHATSAPP_NUMBER = '916356790782';
+const WHATSAPP_NUMBER = '9176210 37293';
 const RECEIVER_EMAIL = 'prayoshamsolarenergy@gmail.com';
 const FORM_ENDPOINT = `https://formsubmit.co/ajax/${RECEIVER_EMAIL}`;
 
